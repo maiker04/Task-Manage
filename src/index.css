@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Didact Gothic', sans-serif;
+}
+.mb-0{
+  margin-bottom: 0px;
+}
+.home{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+.home {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  font-size: 50px;
+  margin: 0px;
+  padding: 30px 0px;
+}
+.home__info__img1{
+  width: 160px;
+  top: -20px;
+  left: 20px;
+  position: absolute;
+}
+.home__info__img2 {
+  width: 200px;
+  top: 50px;
+  left: 365px;
+  position: absolute;
+}
