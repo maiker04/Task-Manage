@@ -117,7 +117,7 @@ ul{
 .icon-options img:hover {
   cursor: pointer;
 }
-.modal__task .MuiPaper-elevation {
+.modal__task .css-uhb5lp {
   height: 80%;
   width: 60%;
 }
@@ -170,7 +170,7 @@ ul{
   .list__card__info {
     width: 200px;
   }
-.modal__task .MuiPaper-elevation  {
+.modal__task .css-uhb5lp  {
   height: 100%;
   width: 100%;
   margin: 0px;
